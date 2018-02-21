@@ -4,6 +4,6 @@ function setup() {
     // Setup code goes here. This function runs once.
 }
 
-function draw () {
+function draw() {
     // Rendering/drawing code goes here.
 }
